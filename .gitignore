@@ -1,3 +1,5 @@
 venv/
 .claude/
 Earthquake_Predictor/
+Spotify_Recommender/Liked_Songs.csv
+
