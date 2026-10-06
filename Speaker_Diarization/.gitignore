@@ -1,0 +1,10 @@
+.venv/
+data/
+*.mp4
+*.mp3
+*.wav
+*.log
+logs/
+models/
+.ipynb_checkpoints/
+__pycache__/
