@@ -1,0 +1,19 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Dataset (Kaggle, ~370 MB) - download separately, see README
+data/
+data_nobg/
+*.zip
+
+# Trained checkpoints (some exceed GitHub's 100 MB limit) - regenerate with scripts/run_all.sh
+models/
+*.pt
+
+# Run artefacts / scratch
+logs/
+reports/tex.npy
+reports/bg_check.png
